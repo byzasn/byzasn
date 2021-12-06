@@ -17,9 +17,9 @@
 
 ## Contacts!
 
-![Discord](https://img.shields.io/badge/%3Byzas#0906%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/%3Cdiscord.gg/gif%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![YouTube](https://img.shields.io/badge/Byzas-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CByzas%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CByzas#0906%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
