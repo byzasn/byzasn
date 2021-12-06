@@ -23,13 +23,3 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-## 📊 My Github Stats
-
-<br/>
-<br/>
-
-<a href="https://github.com/byzasn/github-readme-activity-graph"><img alt="Byzas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=byzasn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
