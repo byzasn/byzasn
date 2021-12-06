@@ -17,9 +17,9 @@
 
 ## Contacts!
 <p align="center">
-       <a href="https://twitch.tv/byzaas" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- <a href="https://open.spotify.com/user/flqlq9vboqj4n4cbug2ptgk1m?si=9a2239ba3790451e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-      <a href="https://discord.com/users/776183087994372156" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://twitch.tv/byzaas" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://open.spotify.com/user/flqlq9vboqj4n4cbug2ptgk1m?si=9a2239ba3790451e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://discord.com/users/776183087994372156" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
 
