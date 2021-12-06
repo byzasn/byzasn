@@ -16,8 +16,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Contacts!
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+![Discord](https://img.shields.io/badge/Byzas#0906-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![YouTube](https://img.shields.io/badge/Byzas>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
