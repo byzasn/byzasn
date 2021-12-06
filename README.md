@@ -24,6 +24,6 @@
 
 
 
-
+<h1> © Byzas & Pokes <img src = "https://cdn.discordapp.com/emojis/813841028288741487.png" high="20px" width="30px">/>
  <h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/813841028288741487.png" high="25px" width="40px"> © Byzas & Pokes</h1>
 
