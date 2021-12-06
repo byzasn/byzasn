@@ -1,7 +1,9 @@
 
 ## Merhaba Github! <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px">
 
-
+</h1>
+<p>🌠Hi, I'm Byzas. I am 21 years old. I've been using Discord for about 4 years. I have been dealing with the software for about 2 year. I started developing bots on Discord 2.5 year ago. Apart from bot development, I like watching movies , listening to music and to sleep. I work harder every day to reach my dreams and go beyond them. Developing bots on Discord was a phase and I want to go further. You can easily find me on Discord with the tag Byzas#0906. See you , byzas love you !</p>
+</body>
 
  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/776183087994372156?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/776183087994372156)
