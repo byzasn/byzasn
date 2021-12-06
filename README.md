@@ -16,17 +16,12 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Contacts!
+<p align="center">
+       <a href="https://twitch.tv/byzaas" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/flqlq9vboqj4n4cbug2ptgk1m?si=9a2239ba3790451e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://discord.com/users/776183087994372156" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-![Discord](https://img.shields.io/badge/%3Cdiscord.gg/gif%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![YouTube](https://img.shields.io/badge/Byzas-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CByzas#0906%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+</p>
 
  <h1 style="font-size:250%;"><img src = "https://cdn.discordapp.com/emojis/813841028288741487.png" high="25px" width="40px"> Byzas & Pokes</h1>
 
