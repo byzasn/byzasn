@@ -9,7 +9,9 @@
 <img src="https://komarev.com/ghpvc/?username=byzasn&label=Numbers%20of%20visitors&color=ff4600" alt="byzasn" />
 
 ## 🚀 Languages and Tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+/*
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -20,7 +22,7 @@
    </a> 
   
 </p>
-
+*/
 
 ## Contacts!
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
