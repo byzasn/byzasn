@@ -2,11 +2,6 @@
  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/776183087994372156?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/776183087994372156)
 
-## 🔧 Languages
-- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
-- ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
-- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
