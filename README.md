@@ -5,7 +5,6 @@
 
  
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/776183087994372156?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/776183087994372156)
-\n
 
 ## 🔧 Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
